@@ -8,14 +8,6 @@ sites:
   - name: POST to Liypoi
     url: https://www.liypoi.top
     method: POST
-  - name: Liypoi DNS 1
-    check: "tcp-ping"
-    url: 100.100.2.136
-    port: 53
-  - name: Liypoi DNS 2
-    check: "tcp-ping"
-    url: 100.100.2.138
-    port: 53
 
 status-website:
   baseUrl: /Upptime
