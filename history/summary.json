@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6904,
-    "timeDay": 6904,
-    "timeWeek": 6904,
-    "timeMonth": 6904,
-    "timeYear": 6904,
+    "time": 5163,
+    "timeDay": 5163,
+    "timeWeek": 5163,
+    "timeMonth": 5163,
+    "timeYear": 5163,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,51 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 531,
-    "timeDay": 531,
-    "timeWeek": 531,
-    "timeMonth": 531,
-    "timeYear": 531,
+    "time": 599,
+    "timeDay": 599,
+    "timeWeek": 599,
+    "timeMonth": 599,
+    "timeYear": 599,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Liypoi DNS 1",
+    "url": "100.100.2.136",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "liypoi-dns-1",
+    "status": "down",
+    "uptime": "49.10%",
+    "uptimeDay": "49.10%",
+    "uptimeWeek": "49.10%",
+    "uptimeMonth": "49.10%",
+    "uptimeYear": "49.10%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-08-26": 1
+    }
+  },
+  {
+    "name": "Liypoi DNS 2",
+    "url": "100.100.2.138",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "liypoi-dns-2",
+    "status": "down",
+    "uptime": "96.17%",
+    "uptimeDay": "96.17%",
+    "uptimeWeek": "96.17%",
+    "uptimeMonth": "96.17%",
+    "uptimeYear": "96.17%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-08-26": 0
+    }
   }
 ]
