@@ -13,7 +13,7 @@ status-website:
   baseUrl: /Upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Liypoi's Blog
-  introTitle: "Website is Online ~~"
+  introTitle: "Website is alive"
   introMessage: "使用开源网站状态监视服务**Upptime**，基于 GitHub Actions 驱动"
   navbar:
     - title: Status
