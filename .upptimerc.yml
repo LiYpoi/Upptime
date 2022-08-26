@@ -8,13 +8,21 @@ sites:
   - name: POST to Liypoi
     url: https://www.liypoi.top
     method: POST
+  - name: Liypoi DNS 1
+    check: "tcp-ping"
+    url: 100.100.2.136
+    port: 53
+  - name: Liypoi DNS 2
+    check: "tcp-ping"
+    url: 100.100.2.138
+    port: 53
 
 status-website:
   baseUrl: /Upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: https://liypoi.github.io/Upptime/
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Liypoi's Blog
+  introTitle: "Website is Online ~~"
+  introMessage: "使用开源网站状态监视服务**Upptime**，基于 GitHub Actions 驱动"
   navbar:
     - title: Status
       href: /
