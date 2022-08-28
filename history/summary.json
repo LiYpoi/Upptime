@@ -4,18 +4,20 @@
     "url": "https://www.liypoi.top",
     "icon": "https://favicons.githubusercontent.com/www.liypoi.top",
     "slug": "liypoi",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 3107,
     "timeDay": 1691,
     "timeWeek": 3107,
     "timeMonth": 3107,
     "timeYear": 3107,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-28": 1
+    }
   },
   {
     "name": "POST to Liypoi",
