@@ -4,9 +4,9 @@
     "url": "https://www.liypoi.top",
     "icon": "https://favicons.githubusercontent.com/www.liypoi.top",
     "slug": "liypoi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1684,
     "timeMonth": 2260,
     "timeYear": 2260,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-09": 0
+    }
   },
   {
     "name": "POST to Liypoi",
