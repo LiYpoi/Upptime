@@ -4,10 +4,10 @@
     "url": "https://www.liypoi.top",
     "icon": "https://favicons.githubusercontent.com/www.liypoi.top",
     "slug": "liypoi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.71%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.70%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
     "time": 2206,
@@ -16,6 +16,7 @@
     "timeMonth": 2206,
     "timeYear": 2206,
     "dailyMinutesDown": {
+      "2022-09-14": 1,
       "2022-09-09": 30
     }
   },
@@ -24,7 +25,7 @@
     "url": "https://www.liypoi.top",
     "icon": "https://favicons.githubusercontent.com/www.liypoi.top",
     "slug": "post-to-liypoi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -35,6 +36,8 @@
     "timeWeek": 491,
     "timeMonth": 566,
     "timeYear": 566,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-14": 0
+    }
   }
 ]
