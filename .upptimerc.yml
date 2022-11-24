@@ -5,10 +5,7 @@ repo: Upptime # The name of this repository
 sites:
   - name: Liypoi
     url: https://www.liypoi.top
-  - name: POST to Liypoi
-    url: https://www.liypoi.top
-    method: POST
-
+  
 status-website:
   baseUrl: /Upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
