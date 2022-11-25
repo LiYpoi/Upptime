@@ -8,40 +8,18 @@
     "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 2088,
-    "timeDay": 1743,
-    "timeWeek": 1733,
-    "timeMonth": 1765,
-    "timeYear": 2088,
+    "time": 2089,
+    "timeDay": 2158,
+    "timeWeek": 1841,
+    "timeMonth": 1774,
+    "timeYear": 2089,
     "dailyMinutesDown": {
       "2022-10-21": 22,
       "2022-09-28": 84,
       "2022-09-14": 19,
       "2022-09-09": 30
-    }
-  },
-  {
-    "name": "POST to Liypoi",
-    "url": "https://www.liypoi.top",
-    "icon": "https://icons.duckduckgo.com/ip3/www.liypoi.top.ico",
-    "slug": "post-to-liypoi",
-    "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.90%",
-    "time": 562,
-    "timeDay": 510,
-    "timeWeek": 521,
-    "timeMonth": 517,
-    "timeYear": 562,
-    "dailyMinutesDown": {
-      "2022-10-21": 21,
-      "2022-09-28": 82,
-      "2022-09-14": 18
     }
   }
 ]
