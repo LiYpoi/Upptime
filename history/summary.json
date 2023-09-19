@@ -4,7 +4,7 @@
     "url": "https://www.liypoi.top",
     "icon": "https://icons.duckduckgo.com/ip3/www.liypoi.top.ico",
     "slug": "liypoi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.27%",
     "uptimeDay": "95.06%",
     "uptimeWeek": "98.93%",
@@ -12,7 +12,7 @@
     "uptimeYear": "99.23%",
     "time": 2195,
     "timeDay": 2234,
-    "timeWeek": 3154,
+    "timeWeek": 2048,
     "timeMonth": 2696,
     "timeYear": 2188,
     "dailyMinutesDown": {
