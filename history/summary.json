@@ -6,14 +6,14 @@
     "slug": "liypoi",
     "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "98.52%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.77%",
     "time": 2232,
-    "timeDay": 2086,
-    "timeWeek": 2040,
-    "timeMonth": 1994,
+    "timeDay": 1960,
+    "timeWeek": 2074,
+    "timeMonth": 1990,
     "timeYear": 2230,
     "dailyMinutesDown": {
       "2024-03-22": 21,
@@ -45,8 +45,7 @@
       "2023-04-26": 21,
       "2023-04-10": 29,
       "2023-04-09": 21,
-      "2023-03-30": 79,
-      "2023-03-25": 27
+      "2023-03-30": 79
     }
   }
 ]
