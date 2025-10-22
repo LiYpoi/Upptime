@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.liypoi.top.ico",
     "slug": "liypoi",
     "status": "down",
-    "uptime": "61.33%",
+    "uptime": "61.29%",
     "uptimeDay": "5.75%",
-    "uptimeWeek": "1.40%",
+    "uptimeWeek": "1.29%",
     "uptimeMonth": "4.87%",
     "uptimeYear": "0.29%",
-    "time": 1104,
-    "timeDay": 335,
-    "timeWeek": 357,
-    "timeMonth": 507,
-    "timeYear": 507,
+    "time": 1084,
+    "timeDay": 315,
+    "timeWeek": 388,
+    "timeMonth": 506,
+    "timeYear": 506,
     "dailyMinutesDown": {
-      "2025-10-21": 226,
+      "2025-10-22": 46,
+      "2025-10-21": 1357,
       "2025-10-20": 1440,
       "2025-10-19": 1440,
       "2025-10-18": 1404,
@@ -379,8 +380,7 @@
       "2024-10-26": 1440,
       "2024-10-25": 1440,
       "2024-10-24": 1440,
-      "2024-10-23": 1440,
-      "2024-10-22": 1440
+      "2024-10-23": 1440
     }
   }
 ]
